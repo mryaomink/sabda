@@ -1,11 +1,11 @@
 {
-    "name": "yao_podcast",
-    "short_name": "yao_podcast",
+    "name": "Suara Pintar",
+    "short_name": "supir",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Edukasi Berbasis Podcast",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
